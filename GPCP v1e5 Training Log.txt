@@ -1,0 +1,17 @@
+Beginning training.
+Epoch 0: Training ... 	 Time:0.00070953369140625
+Epoch 0: Validating... 	 Time:3114.127246618271
+Epoch 0: Training Loss 2.4423, Validation Loss 2.4369, Time Elapsed 4367.6475784778595
+Epoch 1: Training ... 	 Time:0.0006551742553710938
+Epoch 1: Validating... 	 Time:3064.7045431137085
+Epoch 1: Training Loss 2.4322, Validation Loss 2.4380, Time Elapsed 4490.853819608688
+Epoch 2: Training ... 	 Time:0.0006687641143798828
+Epoch 2: Validating... 	 Time:2972.5203835964203
+Epoch 2: Training Loss 2.4316, Validation Loss 2.4369, Time Elapsed 4366.6527507305145
+Epoch 3: Training ... 	 Time:0.0006930828094482422
+Epoch 3: Validating... 	 Time:3291.080323934555
+Epoch 3: Training Loss 2.4314, Validation Loss 2.4368, Time Elapsed 4512.478263616562
+Epoch 4: Training ... 	 Time:0.0006868839263916016
+Epoch 4: Validating... 	 Time:3130.3449137210846
+Epoch 4: Training Loss 2.4313, Validation Loss 2.4368, Time Elapsed 4532.1925637722015
+Training complete!
